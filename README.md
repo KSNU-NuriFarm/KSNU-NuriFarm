@@ -10,6 +10,17 @@
 
 **4** : 과일의 당분 과육등 다양한 요소를 이용하여 과일의 품질 파악
 
+##요소 평가##
+
+긍정적요소
+> - 밭의 구조는 고정
+> - 식물의 중심인 줄기는 고정됨
+> - 재배되는 작물이 정해져있고 모두 동일함
+
+부정적요소
+> - 로봇팔의 기능을 다양화하는 방법
+> - 큰 공간의 냉난방을 가능하게하는 방법
+
 ## **구조**
 ![cont](https://github.com/KSNU-NuriFarm/KSNU-NuriFarm/assets/119506516/803dc9ad-cb20-46d7-802d-037e3b7cc410)
 
@@ -41,6 +52,8 @@
 **4** : 과일의 당분 과육등 다양한 요소를 이용하여 과일의 품질 파악
 Segmentation Methods를 사용
 
+![segment1](https://github.com/KSNU-NuriFarm/KSNU-NuriFarm/assets/119506516/eb468d17-c472-4871-8d89-97e87bdff58a)
+![segment2](https://github.com/KSNU-NuriFarm/KSNU-NuriFarm/assets/119506516/8ec04e80-a61c-4d97-94fc-76d3075190c0)
 
 
 
